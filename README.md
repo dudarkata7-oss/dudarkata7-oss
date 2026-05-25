@@ -18,4 +18,3 @@ I am a first-year Software Engineering student at Ternopil National Technical Un
 
 ### 📫 How to reach me:
 * **LinkedIn:** [https://www.linkedin.com/in/kateryna-dudar-b60895409/?locale=en-US]
-* **Email:** [dudarkata7@gmail.com]
